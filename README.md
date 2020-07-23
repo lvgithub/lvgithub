@@ -1,6 +1,6 @@
 
 ![lvgithub's github stats](https://github-readme-stats.vercel.app/api?username=lvgithub&show_icons=true&theme=cobalt) 
-![lvgithub's github stats](https://github-readme-stats.vercel.app/api?username=lvgithub&show_icons=true&theme=cobalt) 
+ 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
